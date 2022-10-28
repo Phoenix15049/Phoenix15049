@@ -8,7 +8,7 @@
 
 🎓 &nbsp;I'm currently studying Computer Engineering at the Babol Noshirvani University of Technology.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data science, and ASP.NET framework.\
-☀️ &nbsp;In my free time, I do 3D design and modeling and compose music.\
+☀️ &nbsp;In my free time, I do 3D design and modeling and compose music.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
