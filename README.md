@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently studying Computer Engineering at the Babol Noshirvani University of Technology .\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data science, and ASP.NET framework .\
+🌱 &nbsp;I'm on track for learning more about .Net Core Web apis, Machine learning, and Selenium automations .\
 ☀️ &nbsp;In my free time, I do 3D design and modeling and compose music .
 
 <img alt="Night Coding" width="400" height="225" src="https://raw.githubusercontent.com/Phoenix15049/Phoenix15049/main/Content/Main/12.webp" align="right"/>
