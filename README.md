@@ -1,4 +1,4 @@
-![Profile banner](https://raw.githubusercontent.com/Phoenix15049/Phoenix15049/main/Content/Main/bg-p.jpg)
+![Profile banner](https://raw.githubusercontent.com/Phoenix15049/Phoenix15049/main/Content/Main/bg-p.jfif)
 
 <img alt="Waving hand" src="https://raw.githubusercontent.com/Phoenix15049/Phoenix15049/main/Content/Main/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm MohammadReza</h2>
 
