@@ -47,7 +47,6 @@
 | [**PhiChat Client**](https://github.com/Phoenix15049/phichat-client) | Web client for PhiChat with in-browser encryption | Vue 3, TypeScript, Web Crypto API |
 | [**Jaahub**](https://github.com/Phoenix15049/Jaahub) | Real estate platform: listings, rentals, messaging, reviews | ASP.NET Core Web API, React |
 | [**Absolute**](https://github.com/Phoenix15049/Absolute) | A small 3D graphics engine | C++, C, OpenGL |
-| [**TesLang Compiler**](https://github.com/Phoenix15049/TesLang-Compiler) | Compiler for the TesLang language | C# |
 
 ### ⚙️ &nbsp;GitHub Analytics
 
