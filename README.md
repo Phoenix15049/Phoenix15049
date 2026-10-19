@@ -52,8 +52,8 @@
 
 <p align="center">
 <a href="https://github.com/Phoenix15049">
-  <img height="180em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Phoenix15049&theme=blue-green&hide_border=true"/>
-  <img height="180em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix15049&theme=blue-green&layout=compact&hide_border=true"/>
+  <img height="180em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Phoenix15049&theme=blue-green&hide_border=true&show_icons=true&hide=issues,contribs"/>
+  <img height="180em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix15049&theme=blue-green&layout=compact&hide_border=true&exclude_repo=Absolute&langs_count=6"/>
 </a>
 </p>
 
