@@ -7,6 +7,7 @@
 🎓 &nbsp;Computer Engineering student at Babol Noshirvani University of Technology (BNUT).\
 ⚙️ &nbsp;Focused on **.NET backend development**: ASP.NET Core Web APIs, SignalR, EF Core and clean architecture.\
 🔐 &nbsp;Currently building [**PhiChat**](https://github.com/Phoenix15049/Phichat), an end-to-end encrypted real-time messenger.\
+🦀 &nbsp;Also shipping [**Phi2ray**](https://github.com/Phoenix15049/Phi2ray), a leak-resistant Xray client for Windows and Linux, written in Rust.\
 ☀️ &nbsp;In my free time, I do 3D design and compose music.
 
 <img alt="Night coding" width="400" height="225" src="https://raw.githubusercontent.com/Phoenix15049/Phoenix15049/main/Content/Main/12.webp" align="right"/>
@@ -20,6 +21,7 @@
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![SignalR](https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -30,6 +32,10 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Desktop & Systems**\
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 
 **Graphics & Games**\
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -43,17 +49,19 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [**Phi2ray**](https://github.com/Phoenix15049/Phi2ray) <br> [![Latest release](https://img.shields.io/github/v/release/Phoenix15049/Phi2ray?label=release&color=6c5cf6)](https://github.com/Phoenix15049/Phi2ray/releases/latest) | Xray client for Windows and Linux with a kill switch, so traffic waits instead of leaking when the connection drops | Rust, Tauri 2, React, TypeScript |
 | [**PhiChat**](https://github.com/Phoenix15049/Phichat) | Backend of an end-to-end encrypted real-time messenger | ASP.NET Core 8, SignalR, EF Core, SQL Server |
 | [**PhiChat Client**](https://github.com/Phoenix15049/phichat-client) | Web client for PhiChat with in-browser encryption | Vue 3, TypeScript, Web Crypto API |
 | [**Jaahub**](https://github.com/Phoenix15049/Jaahub) | Real estate platform: listings, rentals, messaging, reviews | ASP.NET Core Web API, React |
+| [**DNS Changer**](https://github.com/Phoenix15049/DNSchanger) | One-click DNS switching for Windows with a real DNS speed test, in a single ~100 KB exe | C# |
 | [**Absolute**](https://github.com/Phoenix15049/Absolute) | A small 3D graphics engine | C++, C, OpenGL |
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Phoenix15049">
-  <img height="180em" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Phoenix15049&theme=blue-green&hide_border=true&show_icons=true&hide=issues,contribs"/>
-  <img height="180em" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix15049&theme=blue-green&layout=compact&hide_border=true&exclude_repo=Absolute&langs_count=6"/>
+  <img height="180em" alt="GitHub stats" src="Content/Stats/stats.svg"/>
+  <img height="180em" alt="Top languages" src="Content/Stats/top-langs.svg"/>
 </a>
 </p>
 

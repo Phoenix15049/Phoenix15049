@@ -1,0 +1,45 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/readme-cards.yml
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=blue-green&hide_border=true&show_icons=true&hide=issues,contribs
+          path: Content/Stats/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Absolute is excluded because it vendors GLM and SDL, which swamp the percentages.
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=blue-green&layout=compact&hide_border=true&exclude_repo=Absolute&langs_count=6
+          path: Content/Stats/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Content/Stats/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
